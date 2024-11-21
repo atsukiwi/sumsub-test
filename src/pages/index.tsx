@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import snsWebSdk from '@sumsub/websdk';
 
 export default function Home() {
